@@ -1,0 +1,14 @@
+C:\Users\90474\source\repos\base de datos\base de datos\bin\Debug\base de datos.exe.config
+C:\Users\90474\source\repos\base de datos\base de datos\bin\Debug\base de datos.exe
+C:\Users\90474\source\repos\base de datos\base de datos\bin\Debug\base de datos.pdb
+C:\Users\90474\source\repos\base de datos\base de datos\obj\Debug\base de datos.csprojAssemblyReference.cache
+C:\Users\90474\source\repos\base de datos\base de datos\obj\Debug\base_de_datos.Properties.Resources.resources
+C:\Users\90474\source\repos\base de datos\base de datos\obj\Debug\base de datos.csproj.GenerateResource.cache
+C:\Users\90474\source\repos\base de datos\base de datos\obj\Debug\base de datos.exe
+C:\Users\90474\source\repos\base de datos\base de datos\obj\Debug\base de datos.pdb
+C:\Users\90474\source\repos\base de datos\base de datos\obj\Debug\base_de_datos.Menu.resources
+C:\Users\90474\source\repos\base de datos\base de datos\obj\Debug\base_de_datos.agregapaciente.resources
+C:\Users\90474\source\repos\base de datos\base de datos\obj\Debug\base_de_datos.fromp.resources
+C:\Users\90474\source\repos\base de datos\base de datos\obj\Debug\base_de_datos.agregadoctores.resources
+C:\Users\90474\source\repos\base de datos\base de datos\obj\Debug\base_de_datos.citas.resources
+C:\Users\90474\source\repos\base de datos\base de datos\obj\Debug\base_de_datos.borrarpaciente.resources
